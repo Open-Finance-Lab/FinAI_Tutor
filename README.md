@@ -1,2 +1,2 @@
-# FinAI_Tutor
+# Personalized FinAI Tutor Agents
 Personalized FinAI Tutor
